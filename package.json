@@ -1,0 +1,12 @@
+{
+  "name": "auto-upload-anchor",
+  "version": "1.0.0",
+  "description": "anchorへのファイルアップロードを自動化するツール",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
